@@ -1,3 +1,0 @@
-C:\CMake\bin\cmake.exe -E rm -f CMakeFiles\snake2.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\snake2.dir/objects.a @CMakeFiles\snake2.dir\objects1
-C:\MinGW\bin\c++.exe -Wl,--whole-archive CMakeFiles\snake2.dir/objects.a -Wl,--no-whole-archive -o snake2.exe -Wl,--out-implib,libsnake2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\snake2.dir\linkLibs.rsp
