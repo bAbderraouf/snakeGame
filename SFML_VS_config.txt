@@ -1,0 +1,21 @@
+1) download SFML-2.6.2 for Visual Studio 64 or 32 bits (according to your build config
+
+2) extract SFML zip file 
+
+3) configure Visual studio project settings :
+
+project > settings > C/C++ > General > other include folders >
+	$(ProjectDir)\include;
+	C:\SFML-2.6.2-windows-vc17-64-bit\SFML-2.6.2\include;
+
+project > settings > Linker > General > additianal libraries directory >
+	C:\SFML-2.6.2-windows-vc17-64-bit\SFML-2.6.2\lib
+
+project > settings > C/C++ > Input > additional dependencies >
+	sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-audio.lib
+
+for Debug config change sfml-xxxx.lib by sfml-xxxx-d.lib
+
+
+
+4) coppy dll files from sfml/../bin to your build folder (output folder)
