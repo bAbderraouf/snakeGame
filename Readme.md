@@ -2,11 +2,13 @@
 
 A modern implementation of the classic **Snake** game developed in **C++** using the **SFML** multimedia library. The project focuses on clean code organization, object-oriented programming, and game development fundamentals.
 
+▶️ Full gameplay video:  🔗 [Portfolio : https://babderraouf.github.io/portfolio/](https://babderraouf.github.io/portfolio/)
+
 ---
 
 ## 📸 Preview
 
-> *(Add screenshots or a gameplay GIF here.)*
+> ![Snake Game Screenshot](assets/screenshoots/My2ndSFML2DSnakeGame.gif)
 
 ---
 
