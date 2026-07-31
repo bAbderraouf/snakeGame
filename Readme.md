@@ -106,18 +106,6 @@ This project was developed to practice:
 
 ---
 
-## 👤 Author
-
-**Abderraouf B.**
-
-GitHub: https://github.com/bAbderraouf
-
----
-
-## 📄 License
-
-This project is released for educational and learning purposes.
-
 ## SFML Setup (Visual Studio 2022)
 
 ### 1. Download SFML
@@ -196,6 +184,17 @@ SFML/bin
     ↓
 Project/x64/Debug/
 ```
+## 👤 Author
+
+**Abderraouf B.**
+
+GitHub: https://github.com/bAbderraouf
+
+---
+
+## 📄 License
+
+This project is released for educational and learning purposes.
 
 > **Note:** If you are building in **Debug**, copy the `*-d-2.dll` files.  
 > If you are building in **Release**, copy the standard `.dll` files.
